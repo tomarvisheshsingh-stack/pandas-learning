@@ -1,0 +1,101 @@
+Patient_ID,Date,Age,Gender,Department,Doctor_Name,Treatment_Type,Patient_Status,Days_Admitted,Treatment_Cost,Insurance_Covered,Bed_Type,Diagnosis
+P1001,2025-08-01 00:00:00.000000000,56,Male,Pediatrics,Dr. Amit Patel,Rehabilitation,Recovery,20,41783.92,No,Semi-Private,Diabetes
+P1002,2025-08-02 22:03:38.181818181,19,Female,Cardiology,Dr. Arjun Desai,Emergency Care,Critical,16,63754.3,Yes,General,Migraine
+P1003,2025-08-04 20:07:16.363636363,76,Female,Orthopedics,Dr. Amit Patel,Diagnostics,Recovery,25,87863.59,Yes,General,Diabetes
+P1004,2025-08-06 18:10:54.545454545,65,Female,ICU,Dr. Arjun Desai,Emergency Care,Discharged,22,112441.21,Partial,Semi-Private,Fever
+P1005,2025-08-08 16:14:32.727272727,25,Male,Oncology,Dr. Priya Sharma,Surgery,Discharged,13,116243.25,No,Private,Hypertension
+P1006,2025-08-10 14:18:10.909090909,79,Female,Surgery,Dr. Priya Sharma,Surgery,Critical,27,124304.6,Partial,Semi-Private,Heart Disease
+P1007,2025-08-12 12:21:49.090909090,79,Male,Oncology,Dr. Priya Sharma,Emergency Care,Recovery,19,112910.69,Partial,Private,Cancer
+P1008,2025-08-14 10:25:27.272727272,28,Male,Radiology,Dr. Anjali Verma,Consultation,Admitted,17,103750.72,No,Semi-Private,Hypertension
+P1009,2025-08-16 08:29:05.454545454,7,Female,General Medicine,Dr. Amit Patel,Therapy,Stable,4,39438.44,Partial,ICU,Cancer
+P1010,2025-08-18 06:32:43.636363636,26,Female,Cardiology,Dr. Arjun Desai,Surgery,Stable,12,63032.32,No,Private,Migraine
+P1011,2025-08-20 04:36:21.818181818,57,Male,Cardiology,Dr. Neha Gupta,Emergency Care,Critical,29,74268.66,No,ICU,Infection
+P1012,2025-08-22 02:40:00.000000000,6,Male,ICU,Dr. Rajesh Kumar,Rehabilitation,Discharged,9,17019.24,No,General,Asthma
+P1013,2025-08-24 00:43:38.181818181,34,Female,General Medicine,Dr. Neha Gupta,Emergency Care,Discharged,19,81613.67,Yes,Semi-Private,Fracture
+P1014,2025-08-25 22:47:16.363636363,42,Female,Emergency,Dr. Rajesh Kumar,Medication,Stable,12,68268.7,Partial,General,Hypertension
+P1015,2025-08-27 20:50:54.545454545,6,Female,Neurology,Dr. Vikram Singh,Therapy,Critical,9,121305.84,No,General,Heart Disease
+P1016,2025-08-29 18:54:32.727272727,68,Male,Orthopedics,Dr. Neha Gupta,Diagnostics,Recovery,7,146795.6,Yes,General,Diabetes
+P1017,2025-08-31 16:58:10.909090909,64,Male,Cardiology,Dr. Kavya Nair,Consultation,Discharged,28,85620.73,Partial,General,Heart Disease
+P1018,2025-09-02 15:01:49.090909091,25,Male,Pediatrics,Dr. Kavya Nair,Preventive,Recovery,14,51789.53,Yes,Semi-Private,Migraine
+P1019,2025-09-04 13:05:27.272727272,37,Male,Cardiology,Dr. Sanjay Bhat,Diagnostics,Discharged,20,11293.11,No,General,Cancer
+P1020,2025-09-06 11:09:05.454545454,80,Male,Oncology,Dr. Amit Patel,Therapy,Discharged,19,139073.28,No,Semi-Private,Diabetes
+P1021,2025-09-08 09:12:43.636363636,62,Male,Cardiology,Dr. Rajesh Kumar,Therapy,Under Treatment,26,138271.78,Partial,Semi-Private,Fracture
+P1022,2025-09-10 07:16:21.818181818,26,Female,Cardiology,Dr. Rajesh Kumar,Therapy,Discharged,15,41683.57,Yes,ICU,Fracture
+P1023,2025-09-12 05:20:00.000000000,53,Male,Neurology,Dr. Amit Patel,Diagnostics,Admitted,16,105834.61,Partial,Private,Hypertension
+P1024,2025-09-14 03:23:38.181818181,63,Male,Neurology,Dr. Anjali Verma,Rehabilitation,Critical,21,15938.01,Partial,Private,Migraine
+P1025,2025-09-16 01:27:16.363636363,46,Male,Surgery,Dr. Sanjay Bhat,Therapy,Critical,5,29101.24,Yes,Semi-Private,Infection
+P1026,2025-09-17 23:30:54.545454545,64,Female,Emergency,Dr. Anjali Verma,Emergency Care,Recovery,3,36437.32,Yes,ICU,Migraine
+P1027,2025-09-19 21:34:32.727272727,84,Male,Pediatrics,Dr. Anjali Verma,Diagnostics,Discharged,12,47701.62,No,Semi-Private,Cancer
+P1028,2025-09-21 19:38:10.909090909,19,Male,Cardiology,Dr. Anjali Verma,Preventive,Admitted,25,149395.55,Yes,Semi-Private,Heart Disease
+P1029,2025-09-23 17:41:49.090909091,66,Female,Cardiology,Dr. Amit Patel,Therapy,Recovery,20,106054.13,Yes,Semi-Private,Fracture
+P1030,2025-09-25 15:45:27.272727273,66,Male,Orthopedics,Dr. Anjali Verma,Emergency Care,Under Treatment,27,60709.27,No,ICU,Heart Disease
+P1031,2025-09-27 13:49:05.454545454,51,Male,Neurology,Dr. Kavya Nair,Rehabilitation,Recovery,21,111879.6,Yes,Private,Heart Disease
+P1032,2025-09-29 11:52:43.636363636,66,Male,Pediatrics,Dr. Priya Sharma,Medication,Recovery,4,137711.88,No,ICU,Heart Disease
+P1033,2025-10-01 09:56:21.818181818,55,Male,ICU,Dr. Vikram Singh,Rehabilitation,Discharged,21,144011.85,Yes,General,Fracture
+P1034,2025-10-03 08:00:00.000000000,59,Male,Surgery,Dr. Rajesh Kumar,Preventive,Under Treatment,23,13390.27,No,ICU,COVID-19
+P1035,2025-10-05 06:03:38.181818182,68,Female,Emergency,Dr. Rajesh Kumar,Therapy,Recovery,16,62205.66,Yes,ICU,Fever
+P1036,2025-10-07 04:07:16.363636363,7,Female,General Medicine,Dr. Vikram Singh,Preventive,Admitted,25,20479.63,No,ICU,Cancer
+P1037,2025-10-09 02:10:54.545454545,55,Female,Emergency,Dr. Amit Patel,Diagnostics,Admitted,7,53670.71,Yes,ICU,COVID-19
+P1038,2025-10-11 00:14:32.727272727,11,Male,Oncology,Dr. Neha Gupta,Surgery,Critical,13,29603.59,No,Private,Cancer
+P1039,2025-10-12 22:18:10.909090909,25,Male,Cardiology,Dr. Amit Patel,Therapy,Under Treatment,21,98793.01,Yes,General,Diabetes
+P1040,2025-10-14 20:21:49.090909091,77,Male,Surgery,Dr. Rajesh Kumar,Surgery,Under Treatment,10,61298.92,Partial,Private,Migraine
+P1041,2025-10-16 18:25:27.272727272,43,Female,Oncology,Dr. Rajesh Kumar,Emergency Care,Critical,26,38262.24,No,Private,Migraine
+P1042,2025-10-18 16:29:05.454545454,22,Male,Pediatrics,Dr. Vikram Singh,Medication,Recovery,7,43561.0,Partial,ICU,Asthma
+P1043,2025-10-20 14:32:43.636363636,8,Male,General Medicine,Dr. Anjali Verma,Consultation,Under Treatment,14,57250.04,No,Semi-Private,Migraine
+P1044,2025-10-22 12:36:21.818181818,64,Female,Neurology,Dr. Amit Patel,Preventive,Admitted,26,42692.73,Yes,Semi-Private,Fracture
+P1045,2025-10-24 10:40:00.000000000,18,Male,Surgery,Dr. Arjun Desai,Rehabilitation,Admitted,5,70719.92,Partial,Private,Infection
+P1046,2025-10-26 08:43:38.181818182,13,Female,Surgery,Dr. Vikram Singh,Medication,Discharged,3,9685.81,Yes,Private,Hypertension
+P1047,2025-10-28 06:47:16.363636363,57,Female,Cardiology,Dr. Kavya Nair,Therapy,Under Treatment,23,45565.71,Yes,ICU,Asthma
+P1048,2025-10-30 04:50:54.545454545,6,Female,Radiology,Dr. Rajesh Kumar,Surgery,Recovery,29,64624.97,Yes,Private,Hypertension
+P1049,2025-11-01 02:54:32.727272727,64,Male,Surgery,Dr. Vikram Singh,Rehabilitation,Critical,11,92403.37,No,ICU,Cancer
+P1050,2025-11-03 00:58:10.909090909,75,Male,Orthopedics,Dr. Amit Patel,Surgery,Critical,11,44288.86,No,Semi-Private,Hypertension
+P1051,2025-11-04 23:01:49.090909091,48,Male,General Medicine,Dr. Rajesh Kumar,Diagnostics,Recovery,18,24311.84,Yes,Semi-Private,Hypertension
+P1052,2025-11-06 21:05:27.272727272,12,Male,General Medicine,Dr. Neha Gupta,Surgery,Stable,15,16049.06,Partial,General,Asthma
+P1053,2025-11-08 19:09:05.454545454,51,Male,Orthopedics,Dr. Vikram Singh,Diagnostics,Discharged,12,141377.11,Yes,Semi-Private,Diabetes
+P1054,2025-11-10 17:12:43.636363636,39,Male,ICU,Dr. Sanjay Bhat,Emergency Care,Critical,9,65412.66,Yes,Private,Heart Disease
+P1055,2025-11-12 15:16:21.818181818,82,Male,Orthopedics,Dr. Rajesh Kumar,Rehabilitation,Under Treatment,10,89268.58,Yes,Semi-Private,Migraine
+P1056,2025-11-14 13:20:00.000000000,40,Female,Orthopedics,Dr. Amit Patel,Rehabilitation,Discharged,26,138280.6,Yes,ICU,Migraine
+P1057,2025-11-16 11:23:38.181818182,54,Male,General Medicine,Dr. Priya Sharma,Consultation,Under Treatment,12,16998.52,Yes,Semi-Private,Fracture
+P1058,2025-11-18 09:27:16.363636364,8,Female,Emergency,Dr. Arjun Desai,Therapy,Admitted,17,132115.92,No,General,Asthma
+P1059,2025-11-20 07:30:54.545454546,6,Male,General Medicine,Dr. Meera Chopra,Diagnostics,Discharged,29,84980.24,No,Semi-Private,Fracture
+P1060,2025-11-22 05:34:32.727272726,10,Male,Radiology,Dr. Anjali Verma,Consultation,Critical,6,28900.97,Yes,ICU,Infection
+P1061,2025-11-24 03:38:10.909090908,58,Male,Cardiology,Dr. Meera Chopra,Surgery,Discharged,7,64631.99,Yes,ICU,Infection
+P1062,2025-11-26 01:41:49.090909090,8,Female,Oncology,Dr. Amit Patel,Surgery,Discharged,14,117752.33,Yes,Private,Fracture
+P1063,2025-11-27 23:45:27.272727272,58,Female,Emergency,Dr. Kavya Nair,Consultation,Discharged,13,74653.66,Partial,Semi-Private,Asthma
+P1064,2025-11-29 21:49:05.454545454,67,Female,Neurology,Dr. Kavya Nair,Rehabilitation,Stable,8,147866.48,Yes,ICU,Fracture
+P1065,2025-12-01 19:52:43.636363636,22,Female,Oncology,Dr. Priya Sharma,Surgery,Discharged,10,59627.15,No,General,Migraine
+P1066,2025-12-03 17:56:21.818181818,48,Male,Cardiology,Dr. Anjali Verma,Preventive,Under Treatment,9,113688.85,Partial,Private,COVID-19
+P1067,2025-12-05 16:00:00.000000000,38,Female,Radiology,Dr. Sanjay Bhat,Emergency Care,Admitted,18,61983.47,No,General,Fever
+P1068,2025-12-07 14:03:38.181818182,78,Male,Radiology,Dr. Priya Sharma,Emergency Care,Recovery,27,125228.81,Partial,Semi-Private,Hypertension
+P1069,2025-12-09 12:07:16.363636364,66,Male,Neurology,Dr. Meera Chopra,Preventive,Discharged,26,87516.81,Yes,Semi-Private,Fever
+P1070,2025-12-11 10:10:54.545454546,18,Female,Emergency,Dr. Priya Sharma,Consultation,Critical,2,14209.22,Partial,Semi-Private,Asthma
+P1071,2025-12-13 08:14:32.727272726,52,Female,ICU,Dr. Meera Chopra,Preventive,Discharged,5,10339.17,No,Private,Fever
+P1072,2025-12-15 06:18:10.909090908,19,Female,Orthopedics,Dr. Rajesh Kumar,Diagnostics,Critical,29,24408.56,Partial,ICU,Infection
+P1073,2025-12-17 04:21:49.090909090,76,Female,Emergency,Dr. Kavya Nair,Diagnostics,Under Treatment,5,6982.43,Yes,Private,Cancer
+P1074,2025-12-19 02:25:27.272727272,82,Female,ICU,Dr. Rajesh Kumar,Consultation,Critical,6,15927.06,Yes,General,Hypertension
+P1075,2025-12-21 00:29:05.454545454,66,Female,Radiology,Dr. Arjun Desai,Preventive,Recovery,19,105298.59,Yes,Private,Heart Disease
+P1076,2025-12-22 22:32:43.636363636,44,Female,General Medicine,Dr. Anjali Verma,Diagnostics,Admitted,8,82480.21,No,General,Asthma
+P1077,2025-12-24 20:36:21.818181818,84,Female,Cardiology,Dr. Sanjay Bhat,Rehabilitation,Critical,16,113737.06,Partial,Private,Hypertension
+P1078,2025-12-26 18:40:00.000000000,57,Male,Neurology,Dr. Meera Chopra,Preventive,Critical,13,137409.03,Partial,ICU,Fever
+P1079,2025-12-28 16:43:38.181818182,28,Female,Cardiology,Dr. Sanjay Bhat,Rehabilitation,Admitted,1,89846.68,Yes,General,Infection
+P1080,2025-12-30 14:47:16.363636364,30,Female,Pediatrics,Dr. Meera Chopra,Diagnostics,Recovery,22,110287.52,Partial,Semi-Private,Diabetes
+P1081,2026-01-01 12:50:54.545454544,64,Male,Pediatrics,Dr. Amit Patel,Emergency Care,Discharged,20,114776.77,Yes,Semi-Private,COVID-19
+P1082,2026-01-03 10:54:32.727272726,45,Female,Emergency,Dr. Priya Sharma,Diagnostics,Critical,17,59788.33,Yes,Private,Heart Disease
+P1083,2026-01-05 08:58:10.909090908,33,Male,Radiology,Dr. Arjun Desai,Rehabilitation,Admitted,7,39957.3,Yes,Semi-Private,COVID-19
+P1084,2026-01-07 07:01:49.090909090,19,Male,Radiology,Dr. Kavya Nair,Medication,Under Treatment,25,34731.57,Partial,General,Hypertension
+P1085,2026-01-09 05:05:27.272727272,49,Female,Orthopedics,Dr. Meera Chopra,Therapy,Admitted,13,41459.15,Yes,Semi-Private,Infection
+P1086,2026-01-11 03:09:05.454545454,69,Male,Orthopedics,Dr. Sanjay Bhat,Surgery,Under Treatment,4,44836.11,No,ICU,Infection
+P1087,2026-01-13 01:12:43.636363636,75,Male,Orthopedics,Dr. Arjun Desai,Preventive,Recovery,4,35048.01,Partial,ICU,Fever
+P1088,2026-01-14 23:16:21.818181818,13,Male,General Medicine,Dr. Neha Gupta,Medication,Discharged,6,132342.0,Yes,Private,Migraine
+P1089,2026-01-16 21:20:00.000000000,5,Male,Oncology,Dr. Neha Gupta,Diagnostics,Admitted,28,114764.87,No,General,Fever
+P1090,2026-01-18 19:23:38.181818182,12,Female,Surgery,Dr. Rajesh Kumar,Emergency Care,Stable,19,11799.99,Yes,ICU,Migraine
+P1091,2026-01-20 17:27:16.363636364,67,Male,Oncology,Dr. Kavya Nair,Consultation,Critical,29,43957.51,Yes,ICU,Migraine
+P1092,2026-01-22 15:30:54.545454544,15,Female,Cardiology,Dr. Amit Patel,Diagnostics,Recovery,12,8216.79,Yes,General,Heart Disease
+P1093,2026-01-24 13:34:32.727272726,12,Male,Oncology,Dr. Sanjay Bhat,Emergency Care,Admitted,22,77233.95,Yes,Semi-Private,Fever
+P1094,2026-01-26 11:38:10.909090908,39,Male,General Medicine,Dr. Priya Sharma,Therapy,Critical,7,74050.55,No,Semi-Private,Diabetes
+P1095,2026-01-28 09:41:49.090909090,39,Male,Cardiology,Dr. Priya Sharma,Diagnostics,Admitted,27,125548.87,Yes,Private,Fracture
+P1096,2026-01-30 07:45:27.272727272,37,Male,Oncology,Dr. Sanjay Bhat,Rehabilitation,Under Treatment,10,49627.7,No,Semi-Private,Fracture
+P1097,2026-02-01 05:49:05.454545454,9,Female,General Medicine,Dr. Anjali Verma,Consultation,Admitted,26,123375.93,Partial,General,Fever
+P1098,2026-02-03 03:52:43.636363636,45,Female,Surgery,Dr. Amit Patel,Emergency Care,Stable,19,145356.2,No,ICU,Fever
+P1099,2026-02-05 01:56:21.818181818,32,Male,Oncology,Dr. Arjun Desai,Emergency Care,Admitted,7,17819.19,No,Semi-Private,COVID-19
+P1100,2026-02-07 00:00:00.000000000,11,Male,General Medicine,Dr. Meera Chopra,Emergency Care,Admitted,3,119813.59,No,Private,Heart Disease
